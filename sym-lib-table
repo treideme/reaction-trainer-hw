@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "wch-mcu")(type "KiCad")(uri "/home/treideme/workspace/wch-kicad-lbr/symbols/wch-mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "wch-bluetooth")(type "KiCad")(uri "/home/treideme/workspace/wch-kicad-lbr/symbols/wch-bluetooth.kicad_sym")(options "")(descr ""))
+  (lib (name "wch-usb-pd")(type "KiCad")(uri "/home/treideme/workspace/wch-kicad-lbr/symbols/wch-usb-pd.kicad_sym")(options "")(descr ""))
+  (lib (name "wch-usb-uart")(type "KiCad")(uri "/home/treideme/workspace/wch-kicad-lbr/symbols/wch-usb-uart.kicad_sym")(options "")(descr ""))
+)

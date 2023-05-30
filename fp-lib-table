@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "wch-antenna-pretty")(type "KiCad")(uri "/home/treideme/workspace/wch-kicad-lbr/footprints/wch-antenna.pretty")(options "")(descr ""))
+)

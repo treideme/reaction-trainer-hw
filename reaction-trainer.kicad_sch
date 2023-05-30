@@ -1,0 +1,22 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 726cb70d-0185-4970-973b-037545fc3942)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "Reaction Trainer System Overview")
+    (date "2023-05-30")
+    (rev "1.0")
+    (company "Thomas Reidemeister <treideme@gmail.com>")
+    (comment 1 "Released under CERN-OHL-P (see LICENSE)")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
