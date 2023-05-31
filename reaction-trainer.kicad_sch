@@ -16,6 +16,91 @@
   )
 
 
+  (sheet (at 78.74 22.86) (size 39.37 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 18baac07-1cb8-4cbd-b34a-df08336e3e3b)
+    (property "Sheetname" "Power" (at 78.74 22.1484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 78.74 61.5446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "reaction-trainer"
+        (path "/726cb70d-0185-4970-973b-037545fc3942" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 134.62 22.86) (size 40.64 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1b834bb3-86eb-409b-9f04-1d08416824c1)
+    (property "Sheetname" "LED" (at 134.62 22.1484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "led.kicad_sch" (at 134.62 61.5446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "reaction-trainer"
+        (path "/726cb70d-0185-4970-973b-037545fc3942" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 190.5 22.86) (size 35.56 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6975da13-a179-4238-8df5-8a8dbb2e186a)
+    (property "Sheetname" "Motion" (at 190.5 22.1484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "motion.kicad_sch" (at 190.5 61.5446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "reaction-trainer"
+        (path "/726cb70d-0185-4970-973b-037545fc3942" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 22.86 76.2) (size 45.72 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d9848474-01e2-4e96-ba3a-3ca0cddb4a74)
+    (property "Sheetname" "USB" (at 22.86 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "usb.kicad_sch" (at 22.86 116.1546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "reaction-trainer"
+        (path "/726cb70d-0185-4970-973b-037545fc3942" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 22.86 22.86) (size 45.72 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f1bd1f0b-9f19-4bc6-92d8-e7cd49ef503b)
+    (property "Sheetname" "CH32V208W" (at 22.86 22.1484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ch32V208w.kicad_sch" (at 22.86 61.5446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "reaction-trainer"
+        (path "/726cb70d-0185-4970-973b-037545fc3942" (page "2"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
