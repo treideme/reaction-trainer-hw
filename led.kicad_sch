@@ -894,7 +894,7 @@
     (property "Value" "C5944" (at 97.2059 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 95.25 87.63 0)
+    (property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm" (at 95.25 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "74xx/74hc573.pdf" (at 95.25 87.63 0)
