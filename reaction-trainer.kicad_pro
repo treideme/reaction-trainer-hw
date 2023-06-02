@@ -56,6 +56,9 @@
         }
       ],
       "drc_exclusions": [
+        "clearance|139127500|68857500|a22c34b4-3f01-4fda-9cbf-503630f4f33f|00c40817-808e-4233-bdf1-eeb9a9366ee7",
+        "clearance|140610300|68857500|9ab3fee7-050e-41d2-bdfc-f0750470ba05|7fdd64a3-2c38-41ff-adc9-26bab28b7d1c",
+        "clearance|140610300|68957495|a628022b-0b2c-4de3-a282-6b39bbc651c0|7fdd64a3-2c38-41ff-adc9-26bab28b7d1c",
         "solder_mask_bridge|129267494|63677294|c761db9d-abc0-415e-9f47-4562f0cc6aea|7adfaf59-64e4-4ed9-8d81-bed41541646f",
         "solder_mask_bridge|130763691|65996981|6c3692bf-2cdc-4357-8c4c-b2281344300f|b2e5d119-718b-4a0c-b900-5f10941e8084",
         "solder_mask_bridge|130763691|66496907|ebbfaa9d-7212-4057-8df7-446388c428d9|b2e5d119-718b-4a0c-b900-5f10941e8084",
@@ -74,7 +77,6 @@
         "solder_mask_bridge|139367889|63626178|955de96b-7b40-461f-9ce9-3c5afbec03db|4c1bc63e-a0e9-4ea1-a6c1-93341bd98154",
         "solder_mask_bridge|141067184|63651506|955de96b-7b40-461f-9ce9-3c5afbec03db|4c1bc63e-a0e9-4ea1-a6c1-93341bd98154",
         "solder_mask_bridge|141067502|63357294|955de96b-7b40-461f-9ce9-3c5afbec03db|4c1bc63e-a0e9-4ea1-a6c1-93341bd98154",
-        "track_dangling|139127500|68000000|7d9fda29-c5cc-48ba-93d3-b2fe81e8e172|00000000-0000-0000-0000-000000000000",
         "track_dangling|140610300|68000000|a628022b-0b2c-4de3-a282-6b39bbc651c0|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
@@ -544,10 +546,6 @@
     [
       "d9848474-01e2-4e96-ba3a-3ca0cddb4a74",
       "USB"
-    ],
-    [
-      "e9b9e07b-ae93-47ff-830e-ccac82eaca5a",
-      "Audio"
     ]
   ],
   "text_variables": {}

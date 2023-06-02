@@ -569,11 +569,11 @@
     (uuid f209eba0-1675-48ae-a6c6-f10ae9d0ffd1)
   )
 
-  (hierarchical_label "STAT" (shape bidirectional) (at 86.36 83.82 0) (fields_autoplaced)
+  (hierarchical_label "STAT" (shape output) (at 86.36 83.82 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1095b2dd-588e-4eb6-8a51-dff904c4db7c)
   )
-  (hierarchical_label "VSENSE" (shape bidirectional) (at 66.04 127 0) (fields_autoplaced)
+  (hierarchical_label "VSENSE" (shape output) (at 66.04 127 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e142cf3f-6cd4-461d-8f95-dd886b799196)
   )

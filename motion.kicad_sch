@@ -388,7 +388,7 @@
     (uuid b27d4014-ce62-4a9c-a170-4a82d1f4825f)
   )
 
-  (hierarchical_label "MOTION_INT1" (shape input) (at 109.22 68.58 90) (fields_autoplaced)
+  (hierarchical_label "MOTION_INT1" (shape output) (at 109.22 68.58 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 26c25fa2-d8b9-4968-8fda-9392da67f8aa)
   )
@@ -400,7 +400,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid d28e5b7b-662d-4708-a576-ded1f955c3ce)
   )
-  (hierarchical_label "MOTION_INT2" (shape input) (at 106.68 68.58 90) (fields_autoplaced)
+  (hierarchical_label "MOTION_INT2" (shape output) (at 106.68 68.58 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid ee7ac0ae-e99b-4803-91dd-cc172336825d)
   )
