@@ -56,28 +56,9 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|139127500|68857500|a22c34b4-3f01-4fda-9cbf-503630f4f33f|00c40817-808e-4233-bdf1-eeb9a9366ee7",
-        "clearance|140610300|68857500|9ab3fee7-050e-41d2-bdfc-f0750470ba05|7fdd64a3-2c38-41ff-adc9-26bab28b7d1c",
-        "clearance|140610300|68957495|a628022b-0b2c-4de3-a282-6b39bbc651c0|7fdd64a3-2c38-41ff-adc9-26bab28b7d1c",
-        "solder_mask_bridge|129267494|63677294|c761db9d-abc0-415e-9f47-4562f0cc6aea|7adfaf59-64e4-4ed9-8d81-bed41541646f",
-        "solder_mask_bridge|130763691|65996981|6c3692bf-2cdc-4357-8c4c-b2281344300f|b2e5d119-718b-4a0c-b900-5f10941e8084",
-        "solder_mask_bridge|130763691|66496907|ebbfaa9d-7212-4057-8df7-446388c428d9|b2e5d119-718b-4a0c-b900-5f10941e8084",
-        "solder_mask_bridge|131067185|63676907|c84891b9-d30d-4bef-a264-f3d73bef9684|7adfaf59-64e4-4ed9-8d81-bed41541646f",
-        "solder_mask_bridge|131067185|63676907|ebbfaa9d-7212-4057-8df7-446388c428d9|b2e5d119-718b-4a0c-b900-5f10941e8084",
-        "solder_mask_bridge|131067503|63357294|c84891b9-d30d-4bef-a264-f3d73bef9684|7adfaf59-64e4-4ed9-8d81-bed41541646f",
-        "solder_mask_bridge|133252891|65996981|6c3692bf-2cdc-4357-8c4c-b2281344300f|b2e5d119-718b-4a0c-b900-5f10941e8084",
-        "solder_mask_bridge|133267185|63676907|08d42adf-2bc7-4b09-89cf-7f18dcf1246f|d7ffa0e3-c05a-4efe-a50d-7d498928f158",
-        "solder_mask_bridge|135167504|63677297|45701f07-ae50-42ab-aa47-995bd25002dc|9b731ec3-ea0a-4b6e-bf81-864af9004d42",
-        "solder_mask_bridge|135167504|63677297|5af5e2bb-e5a6-42d1-9b0c-379a715574af|71e93572-5b33-48bc-9ad4-77f5421a5fa7",
-        "solder_mask_bridge|135167504|66002494|5af5e2bb-e5a6-42d1-9b0c-379a715574af|71e93572-5b33-48bc-9ad4-77f5421a5fa7",
-        "solder_mask_bridge|135167507|63357297|45701f07-ae50-42ab-aa47-995bd25002dc|9b731ec3-ea0a-4b6e-bf81-864af9004d42",
-        "solder_mask_bridge|136867891|63676981|54578e14-b7de-4334-87d5-ce3a5874ed9c|50a36221-09bd-4191-aa0e-7a0321882b05",
-        "solder_mask_bridge|137277497|66002494|623281c1-b60e-43e7-a58e-ad055bc2744e|71e93572-5b33-48bc-9ad4-77f5421a5fa7",
-        "solder_mask_bridge|137367891|63676981|54578e14-b7de-4334-87d5-ce3a5874ed9c|50a36221-09bd-4191-aa0e-7a0321882b05",
-        "solder_mask_bridge|139367889|63626178|955de96b-7b40-461f-9ce9-3c5afbec03db|4c1bc63e-a0e9-4ea1-a6c1-93341bd98154",
-        "solder_mask_bridge|141067184|63651506|955de96b-7b40-461f-9ce9-3c5afbec03db|4c1bc63e-a0e9-4ea1-a6c1-93341bd98154",
-        "solder_mask_bridge|141067502|63357294|955de96b-7b40-461f-9ce9-3c5afbec03db|4c1bc63e-a0e9-4ea1-a6c1-93341bd98154",
-        "track_dangling|140610300|68000000|a628022b-0b2c-4de3-a282-6b39bbc651c0|00000000-0000-0000-0000-000000000000"
+        "solder_mask_bridge|139367889|63626178|167d02a8-6d57-4351-90fd-26614ce0aa56|978877fb-5073-4ed8-9e33-a09540e35c03",
+        "solder_mask_bridge|140167184|63651510|9620da53-93ca-456e-a01c-8ad7f8e0b1af|a628022b-0b2c-4de3-a282-6b39bbc651c0",
+        "solder_mask_bridge|141067184|63651510|9620da53-93ca-456e-a01c-8ad7f8e0b1af|a628022b-0b2c-4de3-a282-6b39bbc651c0"
       ],
       "meta": {
         "version": 2
@@ -146,9 +127,9 @@
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.19999999999999998,
-        "min_track_width": 0.0,
+        "min_track_width": 0.127,
         "min_via_annular_width": 0.09999999999999999,
-        "min_via_diameter": 0.19999999999999998,
+        "min_via_diameter": 0.6,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_mask_to_copper_clearance": 0.0,
@@ -449,6 +430,23 @@
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.15,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.2,
+        "microvia_drill": 0.1,
+        "name": "POWER_IN",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.4,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -464,6 +462,14 @@
       {
         "netclass": "Default",
         "pattern": "/CH32V208W/ANT1"
+      },
+      {
+        "netclass": "POWER_IN",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "POWER_IN",
+        "pattern": "+BATT"
       }
     ]
   },
