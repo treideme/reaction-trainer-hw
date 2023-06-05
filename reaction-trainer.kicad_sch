@@ -182,6 +182,9 @@
     (property "Datasheet" "~" (at 45.72 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "JLCPCB Part #" "" (at 45.72 176.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 9e03d326-06eb-43ec-9f28-be89962abfa0))
     (instances
       (project "reaction-trainer"
@@ -205,6 +208,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 36.83 176.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "JLCPCB Part #" "" (at 36.83 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ffc0c49d-7495-46f4-8005-24e368cfafd5))
