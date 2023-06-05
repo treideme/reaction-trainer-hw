@@ -1,7 +1,13 @@
 # Next-Generation Reaction Trainer
 
 This repository contains the hardware design, such as PCB files and
-mechanical CAD files for the IoT contest.
+mechanical CAD files for the IoT contest. 
+
+![Production PCB](img/production_pcb.png)
+![Production Placement](img/production-placement.png)
+
+Please see my [blog post](https://www.reidemeister.com/?p=640)
+for a detailed run-down of the design.
 
 ## Requirements 
  * Kicad 6+
