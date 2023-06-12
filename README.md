@@ -3,6 +3,7 @@
 This repository contains the hardware design, such as PCB files and
 mechanical CAD files for the IoT contest. 
 
+![Assembled PCB](img/assembled_pcb.jpg)
 ![Production PCB](img/production_pcb.png)
 ![Production Placement](img/production-placement.png)
 
