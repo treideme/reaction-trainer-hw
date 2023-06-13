@@ -20,6 +20,8 @@ See [my blog post](https://www.reidemeister.com/?p=624) for more information and
  * [Firmware Sources and Overview](https://github.com/treideme/reaction-trainer)
  * [Android Application Sources](https://github.com/treideme/reaction-trainer-app)
 
+## [Bringup](BRINGUP.md)
+
 ----
 (C) 2023 Thomas Reidemeister, released under [CERN-OHL-P](LICENSE).
 
