@@ -7,7 +7,7 @@ mechanical CAD files for the IoT contest.
 ![Production PCB](img/production_pcb.png)
 ![Production Placement](img/production-placement.png)
 
-Please see my [blog post](https://www.reidemeister.com/?p=640)
+Please see my [blog post](https://reidemeister.com/blog/2023.06.06)
 for a detailed run-down of the design.
 
 ## Requirements 
